@@ -1,0 +1,55 @@
+target_id,pref_name,organism,n_compounds
+CHEMBL1805,Serotonin 1f (5-HT1f) receptor,Homo sapiens,126
+CHEMBL1833,Serotonin 2b (5-HT2b) receptor,Homo sapiens,1238
+CHEMBL1850,Dopamine D5 receptor,Homo sapiens,274
+CHEMBL1875,Serotonin 4 (5-HT4) receptor,Homo sapiens,412
+CHEMBL1898,Serotonin 1b (5-HT1b) receptor,Homo sapiens,1236
+CHEMBL1899,Serotonin 3a (5-HT3a) receptor,Homo sapiens,477
+CHEMBL1983,Serotonin 1d (5-HT1d) receptor,Homo sapiens,1251
+CHEMBL2056,Dopamine D1 receptor,Homo sapiens,895
+CHEMBL214,Serotonin 1a (5-HT1a) receptor,Homo sapiens,3356
+CHEMBL217,Dopamine D2 receptor,Homo sapiens,5354
+CHEMBL2182,Serotonin 1e (5-HT1e) receptor,Homo sapiens,134
+CHEMBL219,Dopamine D4 receptor,Homo sapiens,2055
+CHEMBL224,Serotonin 2a (5-HT2a) receptor,Homo sapiens,2778
+CHEMBL225,Serotonin 2c (5-HT2c) receptor,Homo sapiens,2869
+CHEMBL228,Serotonin transporter,Homo sapiens,4156
+CHEMBL234,Dopamine D3 receptor,Homo sapiens,3133
+CHEMBL2368,Dopamine D1 receptor,Carassius auratus,35
+CHEMBL238,Dopamine transporter,Homo sapiens,2759
+CHEMBL2411,Serotonin 3a (5-HT3a) receptor,Rattus norvegicus,118
+CHEMBL2490,Serotonin 2a (5-HT2a) receptor,Sus scrofa,99
+CHEMBL265,Dopamine D1 receptor,Rattus norvegicus,992
+CHEMBL273,Serotonin 1a (5-HT1a) receptor,Rattus norvegicus,4103
+CHEMBL2967,Dopamine D1 receptor,Bos taurus,285
+CHEMBL2992,Dopamine beta-hydroxylase,Rattus norvegicus,31
+CHEMBL3102,Dopamine beta-hydroxylase,Homo sapiens,32
+CHEMBL313,Serotonin transporter,Rattus norvegicus,3527
+CHEMBL3138,Dopamine D3 receptor,Rattus norvegicus,614
+CHEMBL3155,Serotonin 7 (5-HT7) receptor,Homo sapiens,1171
+CHEMBL322,Serotonin 2a (5-HT2a) receptor,Rattus norvegicus,1648
+CHEMBL3223,Serotonin 7 (5-HT7) receptor,Rattus norvegicus,365
+CHEMBL323,Serotonin 2b (5-HT2b) receptor,Rattus norvegicus,213
+CHEMBL324,Serotonin 2c (5-HT2c) receptor,Rattus norvegicus,575
+CHEMBL3361,Dopamine D4 receptor,Rattus norvegicus,114
+CHEMBL3371,Serotonin 6 (5-HT6) receptor,Homo sapiens,2408
+CHEMBL3372,Serotonin 6 (5-HT6) receptor,Rattus norvegicus,32
+CHEMBL338,Dopamine transporter,Rattus norvegicus,2897
+CHEMBL339,Dopamine D2 receptor,Rattus norvegicus,4378
+CHEMBL3426,Serotonin 5a (5-HT5a) receptor,Homo sapiens,466
+CHEMBL3427,Dopamine D2 receptor,Mus musculus,167
+CHEMBL3446,Serotonin 2a (5-HT2a) receptor,Bos taurus,128
+CHEMBL3459,Serotonin 1b (5-HT1b) receptor,Rattus norvegicus,397
+CHEMBL3597,Serotonin 5a (5-HT5a) receptor,Mus musculus,40
+CHEMBL3666,Serotonin 3a (5-HT3a) receptor,Cavia porcellus,51
+CHEMBL3737,Serotonin 1a (5-HT1a) receptor,Mus musculus,70
+CHEMBL3998,Dopamine D2 receptor,Bos taurus,307
+CHEMBL4105,Serotonin 1d (5-HT1d) receptor,Sus scrofa,127
+CHEMBL4317,Serotonin 4 (5-HT4) receptor,Rattus norvegicus,248
+CHEMBL4702,Dopamine beta-hydroxylase,Bos taurus,79
+CHEMBL4972,Serotonin 3a (5-HT3a) receptor,Mus musculus,41
+CHEMBL5017,Serotonin 4 (5-HT4) receptor,Cavia porcellus,273
+CHEMBL5067,Dopamine D1 receptor,Sus scrofa,240
+CHEMBL5377,Serotonin 2a (5-HT2a) receptor,Mus musculus,68
+CHEMBL5450,Serotonin 1d (5-HT1d) receptor,Rattus norvegicus,48
+CHEMBL5453,Serotonin transporter,Macaca mulatta,67

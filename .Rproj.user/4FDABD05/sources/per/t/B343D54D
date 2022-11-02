@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616779776782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2170460650",
+    "id" : "B343D54D",
+    "lastKnownWriteTime" : 1616779787,
+    "last_content_update" : 1616779787325,
+    "path" : "~/code/191128TML/scr04_openml_stackedridge_models.R",
+    "project_path" : "scr04_openml_stackedridge_models.R",
+    "properties" : {
+        "cursorPosition" : "57,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

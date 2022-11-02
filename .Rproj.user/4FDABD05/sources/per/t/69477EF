@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616779694391.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3478653303",
+    "id" : "69477EF",
+    "lastKnownWriteTime" : 1616779726,
+    "last_content_update" : 1616779726131,
+    "path" : "~/code/191128TML/scr04_openml_nnls_models.R",
+    "project_path" : "scr04_openml_nnls_models.R",
+    "properties" : {
+        "cursorPosition" : "53,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

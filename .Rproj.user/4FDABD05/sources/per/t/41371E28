@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616715394337.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3023032714",
+    "id" : "41371E28",
+    "lastKnownWriteTime" : 1616715987,
+    "last_content_update" : 1616715987810,
+    "path" : "~/code/191128TML/scr02_openml_base_models_XGB.R",
+    "project_path" : "scr02_openml_base_models_XGB.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
