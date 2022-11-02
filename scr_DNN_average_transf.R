@@ -5,7 +5,7 @@ names(pred_vers) = pred_vers
 
 library(tidyverse)
 
-path_proj = "/home/shared/1911TML/"
+path_proj = "/Users/karan/OneDrive/Desktop/TML/"
 path_predictions = paste0(path_proj, "predictions/transformed/split_data/")
 
 learner_id = "DNN"

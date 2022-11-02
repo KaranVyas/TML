@@ -1,9 +1,9 @@
 rm(list = ls())
 
-data_dir = "/home/shared/openml_stdy07/"
+data_dir = "/Users/karan/OneDrive/Desktop/TML/"
 
 library(tidyverse)
-dsets = read_csv(paste0(data_dir, "data/original_datasets.csv"))
+dsets = read_csv(paste0(data_dir, "original_datasets.csv"))
 
 set.seed(1)
 
