@@ -2,7 +2,7 @@ rm(list = ls())
 
 library(tidyverse)
 
-path_proj = paste0("/Users/karan/OneDrive/Desktop/TML/")
+path_proj = paste0("/Users/karan/OneDrive/Desktop/TML/Code/")
 path_legacy_data = paste0(path_proj, "legacy/")
 
 targ_ids = read_csv(paste0(path_proj, "datasets_info.csv"))

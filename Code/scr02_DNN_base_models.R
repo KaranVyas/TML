@@ -9,7 +9,7 @@ library(keras)
 
 learner_id = "DNN"
 
-path_proj = "/Users/karan/OneDrive/Desktop/TML/"
+path_proj = "/Users/karan/OneDrive/Desktop/TML/Code/"
 path_datasets = paste0(path_proj, "datasets/originals/")
 path_splits = paste0(path_proj, "data_splits/")
 path_models_full = paste0(path_proj, "models/base/full_data/",learner_id,"/")

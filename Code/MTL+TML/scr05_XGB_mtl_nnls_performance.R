@@ -2,10 +2,10 @@ rm(list = ls())
 
 library(tidyverse)
 
-learner = "DNN"
-strategy = "base"
+learner = "XGB"
+strategy = "stackednnls"
 
-path_proj = "/Users/karan/OneDrive/Desktop/TML/"
+path_proj = "/home/shared/1911TML/"
 path_predictions = paste0(path_proj, "predictions/")
 pathx = paste0(path_predictions, strategy, "/split_data/", learner, "/test/")
 did_files = list.files(pathx)
@@ -32,4 +32,3 @@ pred_data %>% group_by(target_id, fold) %>%
             truth_min = min(truth),
             nrmse = rmse / (truth_max - truth_min)) %>%
   write_csv(paste0(path_perf, "perf_", strategy, "_", learner, ".csv"))
-

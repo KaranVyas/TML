@@ -8,7 +8,7 @@ library(keras)
 
 learner_id = "DNN"
 
-path_proj = "/home/shared/1911TML/"
+path_proj = "/Users/karan/OneDrive/Desktop/TML/Code/"
 path_legacy_data = paste0(path_proj, "legacy/")
 path_models_full = paste0(path_proj, "models/base/full_data/", learner_id, "/")
 path_predictions = paste0(path_proj, "predictions/base/full_data/", learner_id, "/")
