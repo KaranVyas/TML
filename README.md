@@ -54,6 +54,8 @@ Results
 As we can see in the table.1 just by applying our traditional approach, we got an accuracy of 90.84 percent and a precision error of 9.15 percent. We can observe the Root Mean Square Error as 0.75.
 On the same dataset, when we use the Transformational Machine Learning approach, the accuracy has increased to 91.41 percent, and the precision has been reduced to 8.58 percent, with the Root Mean
 Square Error valued at 0.69 
+Extending forward, using the Baseline and TML model combined, the accuract has further extended to 91.67 with a slight improvment, with the RMSE value being least to 0.66425.
+Finally, using the MTL and Base model combined, the RMSE value being goes to 0.67381.
 The preliminary results indicate not much increase in efficiency but still an increase in efficiency. This shows improvement because of partial models and example information as we are giving both
 significant value but here we need to give task dataset more importance so we will stack dataset example features with transformed features.
 
