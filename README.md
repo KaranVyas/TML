@@ -66,4 +66,4 @@ to explore the cascading of different techniques like MTL and stacking with TML 
 formulation of a further efficient model. Drug targeting, Meta Machine Learning model prediction,
 and drug similarity were the only topics covered in the transformational machine learning research
 paper we focused on. Also, we are planning to use the dataset to test scale change and explore the
-possibilities of the ecosystem to further the scope of its applications in day-to-day life.
+possibilities of the ecosystem to further the scope of its applications in day-to-day life
